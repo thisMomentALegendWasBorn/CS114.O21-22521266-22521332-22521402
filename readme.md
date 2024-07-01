@@ -28,7 +28,7 @@
 * **HỌ VÀ TÊN** : NGUYỄN DƯƠNG QUỐC THẮNG
 * **KHÓA** KHMT2022
   
-**MSSV** : 22521402
+* **MSSV** : 22521402
 * **HỌ VÀ TÊN** : ĐINH QUỐC THỊNH
 * **KHÓA** KHMT2022
   
